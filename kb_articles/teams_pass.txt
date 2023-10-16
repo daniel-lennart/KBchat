@@ -1,0 +1,60 @@
+Knowledge Base Article: Efficiently Executing a Self-Service Password Reset (SSPR) in MS Teams
+
+Product/Version: MS Teams, Office 365
+Keywords: SSPR, Self-Service Password Reset, Multi-Factor Authentication, Office 365, Password Standards, Verification, Microsoft Authenticator App
+Table of Contents
+Introduction
+Process Steps
+Additional Steps Not in SharePoint
+Support Information
+Related Articles
+Keywords
+1. Introduction
+Enabling a Self-Service Password Reset (SSPR) is pivotal for empowering users to independently manage password issues, reducing service desk engagements, and promoting operational efficiency. Please ensure you have registered for SSPR, consulting KB00044325 if needed.
+
+2. Process Steps
+2.1 Accessing the SSPR Page
+Navigate to https://passwordreset.microsoftonline.com/ or use the "Windows Password Reset" application via Windows search.
+2.2 Initiating the Reset
+Enter your email address.
+Complete the captcha verification and proceed by clicking "Next."
+2.3 Multi-Factor Authentication
+Utilize one of your multi-factor authentication methods. It’s recommended to use the Microsoft Authenticator app for this purpose.
+2.4 New Password Creation
+Construct a new password adhering to the following standards:
+Minimum 10 characters.
+At least one number or special character.
+Must not match any of the last 10 used passwords.
+It is recommended to utilize a passphrase or a sentence-like string.
+Incorporate upper and lowercase characters, if possible.
+Upon successful creation, click "Finish" and utilize the new password for subsequent logins.
+3. Additional Steps Not in SharePoint
+2.8 Reset Password from Logon Screen
+On the logon screen (not the lock screen) of your device, select the "Reset Password" option.
+2.9 Email Address Entry
+Input your email address in the provided field.
+2.10 Verification Method Selection
+Choose a verification method from the dropdown menu. Options include:
+Text my mobile phone.
+Email my alternative email address.
+Call my mobile phone.
+Answer my security questions.
+After verification, select "Next" and create a new password in the subsequent window.
+Notes:
+Ensure SSPR is set up prior to this process.
+Password synchronization with your device may require connection to the office network.
+Multi-Factor Authentication prompts occur only outside the office network.
+4. Support Information
+For further help, reach out through the available support channels detailed in KB00052497.
+
+5. Related Articles
+KB00039248: Changing Your Password via Office 365 Portal
+KB00044325: Setting Up SSPR for Office 365
+KB00039024: Logging Into Office 365 and Setting Up MFA on Mobile Devices
+KB00038998: Logging Into Office 365
+KB00038927: User Knowledge Directory – Windows 10; Office 365 / ProPlus 2016
+KB00052497: Contacting the myIS Service Desk
+KB00024568: myIS Service Desk IVR Menu Structure
+
+Conclusion
+SSPR provides a structured, user-friendly approach for end users to independently reset their passwords, thereby saving time and resources for the service desk and enhancing operational efficiency. This guide, enriched with detailed steps and notes, intends to streamline the SSPR process, fostering self-sufficiency among users and ensuring consistent access to crucial applications like MS Teams and Office 365.

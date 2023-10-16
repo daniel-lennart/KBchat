@@ -1,0 +1,45 @@
+Knowledge Base Article: A Comprehensive Guide to Clearing Cache in Microsoft Edge
+Article ID: KB1009
+Last Updated: [Date]
+Audience: All Users
+Product/Version: Microsoft Edge
+Keywords: Microsoft Edge, Clear Cache, Browser Cache, Cookies, Browsing Data, Performance, Browser Troubleshooting
+
+1. Introduction
+This guide provides a detailed walk-through on how to clear cache and browsing data in Microsoft Edge, a fundamental troubleshooting step to resolve common browsing issues, like loading or formatting problems on websites.
+
+2. Process Steps
+2.1 Open Microsoft Edge
+Click on the Microsoft Edge icon on your desktop or taskbar to launch the browser.
+2.2 Accessing Settings
+Locate and click on the three horizontal dots (or ellipsis) at the top-right corner of the browser window.
+In the dropdown menu, select "Settings."
+2.3 Navigate to Privacy and Services
+On the left-hand side of the "Settings" window, click on "Privacy, search, and services."
+2.4 Clear Browsing Data
+Under the "Clear browsing data" section, click on "Choose what to clear."
+In the "Time range" dropdown menu, select the desired time range for which you want to clear the browsing data. Options typically include:
+Last hour
+Last 24 hours
+Last 7 days
+Last 4 weeks
+All time (to clear all cached data)
+Ensure that the checkbox next to "Cached images and files" is selected.
+Optionally, you may select additional items to clear, such as "Cookies and other site data," "Browsing history," etc.
+Click on the "Clear now" button.
+2.5 Completion and Verification
+Once the cached data is cleared, close and reopen Microsoft Edge.
+Visit the previously problematic website to verify if the issue persists.
+3. Additional Tips
+Regularly clearing cache can prevent website loading issues and ensure you’re viewing the most recent version of websites.
+Remember that clearing cookies and site data will sign you out of websites and might remove saved settings for specific sites.
+If website issues persist even after clearing the cache, try using Edge in "InPrivate" mode, as this mode doesn’t store cache, cookies, or browsing history.
+.
+
+5. Related Articles
+KB00023456: Troubleshooting Basic Browser Issues
+KB00034567: Ensuring Online Privacy and Security While Browsing
+
+
+Conclusion
+Clearing cache in Microsoft Edge can be an effective solution to resolve website loading and formatting issues and ensure optimal browser performance. This guide simplifies the process of clearing the cache, providing users with a straightforward method to troubleshoot common browsing issues independently. Regular cache management can ensure a smoother, more secure, and efficient browsing experience

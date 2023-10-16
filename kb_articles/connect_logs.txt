@@ -1,0 +1,28 @@
+Knowledge Base Article: Collecting Amazon Connect CCP Logs for Investigations
+
+Product/Version: Amazon Connect CCP
+Keywords: Amazon Connect, CCP Logs, Investigations, DTS Telecoms Team, Chirp, Logger, Critical, Trace, Download Logs
+
+1. Introduction
+Assisting in investigations related to issues in Amazon Connect call handling necessitates providing relevant logs to the DTS telecoms team. This guide outlines the steps to collect and submit these logs. It's imperative to keep the browser open until the logs are collected as Amazon Connect maintains call logs only for the ongoing browser session.
+Tools needed: Chirp
+2. Process Steps
+2.1 Navigate to the Headset Icon in Chirp
+Locate the headset icon, typically situated at the top of the Chirp interface.
+Clicking the headset icon opens a new window or sidebar, which displays various settings and options related to your call and interaction settings.
+2.2 Adjusting Logger Settings
+Within this new window, find the section labeled "Logger," which contains settings for "Log Level" and "Echo Level."
+By default, these might be set to "Trace."
+Click into each of these settings and select "Critical" from the dropdown list. "Critical" logs are essential for capturing errors and important events, which are vital for investigations.
+2.3 Downloading the Logs
+Locate and click the "Download logs" button within the Logger section. This action will trigger a text window to appear, displaying various logs related to your Amazon Connect session.
+These logs contain vital information that can assist the DTS telecoms team in identifying and troubleshooting issues encountered during calls.
+2.4 Save and Store the Log File
+Once the log text window is open, navigate to "File" in the top-left corner of your browser or text window, and select "Save As."
+Save the file with a name that corresponds to your LAN ID, e.g., "[YourLANID].txt," and ensure it is stored in an easily accessible location, such as your desktop.
+2.5 Submitting the Logs
+Provide the saved log file to your line manager or submit it directly to the IS helpdesk agent for further investigation.
+Ensure to include additional information such as the customer's phone number and an approximate time when the issue occurred to aid in the investigative process.
+
+Conclusion
+Accurate logging and effective communication of issues play a pivotal role in diagnosing and resolving issues encountered during Amazon Connect sessions. Following the steps outlined above ensures that relevant logs are preserved, communicated, and utilized effectively to support ongoing investigations and improve the overall user and customer experience in Amazon Connect.

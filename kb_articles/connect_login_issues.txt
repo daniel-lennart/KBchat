@@ -1,0 +1,42 @@
+Knowledge Base Article: Resolving Login Issues in Amazon Connect Due to Cookie Settings
+Article ID: KB1021AC
+
+Product/Version: Amazon Connect (All Versions)
+Keywords: Amazon Connect, Login Issue, Cookies, Browser Settings, Privacy and Security, Blocked Cookies, Troubleshooting, Support
+
+1. Introduction
+Encountering login issues with Amazon Connect might be linked to your browser's cookie settings. This guide furnishes a step-by-step method to troubleshoot and resolve such issues, particularly those related to cookie settings, ensuring a smooth login experience.
+
+2. Process Steps
+2.1 Identify Cookie Blockage
+Observe your browser for a cookie icon or other indications that cookies might be blocked, which can inhibit successful login.
+2.2 Access Browser Settings
+Navigate to the browser settings by clicking on the three dots (or relevant symbol) typically located in the top-right corner of your browser.
+2.3 Navigate to Privacy Settings
+Select "Settings" and then choose "Privacy and Security" to access relevant options.
+2.4 Access Cookie Settings
+Click on “Cookies and other site data” to view and modify cookie settings.
+2.5 Allow All Cookies
+Alter the setting from “Block third-party cookies” to “Allow all cookies” to ensure seamless navigation and use of Amazon Connect.
+2.6 Verify Successful Login
+Attempt to log into Amazon Connect again and ensure that the cookie blockage icon or notification is no longer present, indicating that the issue has been resolved.
+3. Additional Tips
+3.1 Browser Compatibility
+Ensure that your browser is compatible with Amazon Connect. Typically, the most recent versions of Google Chrome, Mozilla Firefox, and Microsoft Edge are recommended.
+3.2 Cache Clearance
+Periodically clearing your browser cache or opting for a hard refresh might resolve sporadic login issues.
+3.3 Firewall/Network Checks
+Ensure that your network or firewall settings do not restrict access to Amazon Connect.
+3.4 Update Browser
+Ensure your browser is updated to the latest version to leverage optimal functionality and security.
+
+
+5. Related Articles
+KB1002AC - Getting Started with Amazon Connect: A Beginner's Guide
+KB1003AC - Troubleshooting Common Issues in Amazon Connect
+KB1004AC - Ensuring Optimal Configuration for Amazon Connect Usage
+6. Keywords
+Unable to log into Amazon Connect, Amazon Connect, Login Issue, Cookies, Browser Settings, Privacy and Security, Blocked Cookies, Troubleshooting.
+
+Conclusion
+Navigating through login issues with Amazon Connect can be streamlined with an understanding of browser settings and behavior. This guide assists users in addressing and resolving login hurdles related to cookie settings, facilitating an unhindered user experience within Amazon Connect. Always ensure that your browser is up-to-date and configured optimally for interfacing with web applications like Amazon Connect.

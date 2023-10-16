@@ -1,0 +1,35 @@
+Knowledge Base Article: Enabling Regular Cleaning for the Microsoft Edge Browser
+
+Product/Version: Microsoft Edge Browser
+Keywords: Edge, Browser, Cleaning, Browsing History, Download History, Cookies, Cache
+
+1. Introduction
+Ensuring privacy and optimal performance while using the Microsoft Edge browser entails regular cleaning of your browsing data. This article delineates straightforward steps to configure Edge to automatically clear specific browsing data, including Browsing and Download history, Cookies, and Cached images/files, every time you close the browser.
+
+2. Process Steps
+2.1 Launch Microsoft Edge
+Click on the Windows button located in the bottom left corner of your screen.
+Locate and open the Microsoft Edge browser.
+2.2 Navigate to Settings
+In the Edge browser, find and click the three horizontal dots (menu icon) located in the top-right corner.
+From the dropdown menu, select "Settings."
+2.3 Access Privacy Settings
+Within Settings, locate and select "Privacy, search, and services" from the menu on the left.
+2.4 Activate Automatic Data Clearing
+Scroll to the "Clear browsing data" section.
+Enable the checkboxes for "Browsing history," "Download history," "Cookies and other site data," and "Cached images and files."
+Activate the setting labeled "Choose what to clear every time you close the browser."
+2.5 Apply Changes
+Close and reopen the Edge browser to apply the changes.
+Note: After performing these steps, the specified data types will be automatically cleared each time you close the Microsoft Edge browser.
+
+3. Additional Information
+Preserving Passwords: When enabling the clearing of "Cookies and other site data," be mindful that you might be logged out from websites and online services. Ensure that your passwords are saved or noted securely for easy access.
+Bookmarks: This setting will not delete your bookmarks. However, ensuring that your bookmarks are synchronized with your Microsoft account will preserve them across devices.
+Extensions: Clearing data will not affect your browser extensions, but it may log you out of any extensions that require a sign-in.
+Privacy: Regularly clearing data assists in safeguarding your privacy, especially when using shared or public computers.
+4. Support Information
+Should you encounter difficulties or have further inquiries, please reach out through the following channels:
+
+Conclusion
+Ensuring privacy and a clutter-free browsing experience contributes significantly to smooth and optimal browser performance. Regularly cleaning your browsing data helps safeguard your privacy and personal information. Utilize the steps and additional information provided to make the most of your browsing experience with Microsoft Edge.

@@ -1,0 +1,31 @@
+Knowledge Base Article: Accessing and Logging Into Amazon Connect
+Product/Version: Amazon Connect
+Keywords: Amazon Connect, Access, Login, Google Chrome, Pop-up Blocker, Notifications, Microphone
+
+1. Introduction
+This guide provides a comprehensive walkthrough on how to access and log into Amazon Connect, a cloud-based contact center service that enables customer support through various channels. Ensure to use Google Chrome for compatibility and optimal performance when accessing Amazon Connect.
+
+2. Process Steps
+2.1 Accessing Amazon Connect
+NEP Users: Open Google Chrome and copy-paste the link specifically provided for NEP users into the browser’s address bar ([PLACEHOLDER FOR NEP USERS LINK]).
+Other Users: Utilize the following link for non-NEP users in the Chrome address bar ([PLACEHOLDER FOR OTHER USERS LINK]).
+Note: Adhere to your BAU (Business As Usual) process for opening other applications.
+2.2 Managing Pop-ups
+If a pop-up blocker symbol appears in the address bar or at the top-right corner of the browser, click on it.
+From the dropdown menu, select “Always allow pop-ups and redirects from [URL]” and click "Done."
+2.3 Allowing Notifications and Microphone Access
+Upon first-time access, two permission requests will pop up, typically at the top-left corner of the browser:
+“Show notifications” – Click “Allow.”
+“Use Microphone” – Click “Allow.”
+Ensuring both permissions are granted is crucial for using Amazon Connect's communication features effectively.
+2.4 Login and User Interface
+Upon successfully allowing the necessary permissions, you will be directed to the Amazon Connect dashboard, which is the primary interface for interacting with customers.
+Here, you can manage incoming calls, chat interactions, and utilize various features available in Amazon Connect.
+3. Additional Tips
+Browser Compatibility: Always use Google Chrome for Amazon Connect for a stable and efficient user experience.
+Bookmarking: Consider bookmarking the Amazon Connect URL for quicker access in future sessions.
+Headset: Ensure that your headset/microphone is properly connected and configured in your system settings for clear communication.
+Testing: Periodically test microphone and speaker functionality within Amazon Connect to ensure optimal call quality.
+
+Conclusion
+Amazon Connect provides a robust platform for managing customer interactions seamlessly. Ensuring smooth access and setup, as delineated in the steps above, empowers users to leverage the platform effectively, promoting efficient customer support and interaction.

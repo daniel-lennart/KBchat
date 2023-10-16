@@ -1,0 +1,39 @@
+Knowledge Base Article: Executing a Self-Service Password Reset (SSPR) for Production SAP
+
+Audience: SAP Users
+Product/Version: SAP
+Keywords: SAP, Self-Service Password Reset, SSPR, Production SAP, Security Questions, Password Standards, SAP Systems
+
+1. About
+SSPR, introduced to alleviate the service desk load and expedite user access recovery, enables users to reset their SAP system password autonomously. Ensure prior registration for SSPR by consulting KB00044325 if necessary.
+
+2. Accessing SAP SSPR
+Navigate to the SAP SSPR using the provided link (use Microsoft Edge, Chrome is not supported). First-time users must establish security questions and answers before utilizing the SSPR.
+
+3. Resetting SAP Password
+3.1 Begin the Process
+Click the link from Section 2.
+3.2 First-Time Setup: Security Questions
+First-time users will set up security questions and answers as per the on-screen instructions.
+3.3 to 3.3.3 Registering Security Questions
+Select 'Admin Defined Questions' and choose a question from the dropdown. Provide and confirm an answer (not case-sensitive).
+Click 'Next' and confirm successful registration.
+3.4 Answer Security Questions
+Provide answers to the security questions and proceed by clicking 'Next'.
+3.5 & 3.6 Select SAP Systems
+Choose the SAP system(s) for password reset by moving them from 'Available' to 'Selected' systems and confirm.
+3.7 Submit Request
+Click 'Submit' to finalize the password reset.
+3.8 & 3.9 Confirm and Check Email
+A confirmation message will display.
+An email with the new password(s) will be sent. Use the new password(s) to log in and follow prompts to create a new personalized password.
+4. Exceptions
+If SSPR access is problematic, revert to the alternative password reset process, which may involve contacting the Helpdesk or raising a TSR via the service catalogue (see KB00034353 for details). Key exceptions to SAP SSPR availability are detailed in the full document, including Forgotten Answer, Repeat Reset, Multiple SAP IDs, User Not SAP SSPR Enabled, GRC Account Locked, GRC unavailability, and Non-Production ID issues.
+
+5. Related Articles
+KB00034353: Password Reset Guide
+KB00023060: Quick SAP Guide
+
+
+Conclusion
+The SAP SSPR provides users with a streamlined, secure method of recovering or resetting their passwords autonomously, reducing service desk engagements and ensuring swift recovery from access issues. Detailed above are explicit steps to navigate the SSPR process and potential exceptions users may encounter. This guide, encompassing all requisite steps and tips, facilitates user independence in managing their SAP access and ensures consistent, unhindered utilization of the SAP systems.

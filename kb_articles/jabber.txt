@@ -1,0 +1,50 @@
+Knowledge Base Article: Detailed Optimization of MS Teams and Cisco Jabber for Teams Calling
+
+Product/Version: MS Teams, Cisco Jabber
+Keywords: MS Teams, Cisco Jabber, Calling, Optimization, Settings, GVW User, Fixed Laptop User
+
+Keywords
+1. Introduction
+Effective Teams Calling via Cisco Jabber necessitates a thorough configuration of MS Teams settings. For GVW users, ensuring your physical machine is running the latest version of the CITRIX WORKSPACE APP CLIENT is paramount before proceeding with the steps outlined below.
+
+2. Process Steps
+Step 1: Update MS Teams
+Click on your initials in MS Teams.
+Select ‘Check for updates’ to ensure you are utilizing the latest version.
+Step 2: Review and Configure Settings in MS Teams
+Navigate to ‘Settings’ and confirm or adjust the following configurations:
+General Settings:
+Ensure "Auto-start application" is enabled.
+Activate "On close, keep the application running."
+Check "Register Teams as a chat app for Office."
+Enable "Turn on new meeting experience."
+For Fixed Laptop Users Only: Ensure "Disable GPU hardware acceleration" is checked.
+Privacy Settings:
+Under the ‘Privacy’ tab, select "Manage Priority Access."
+Enter the provided number ([NUMBER PLACEHOLDER]) in the relevant field.
+Calls Settings:
+Under the ‘Calls’ tab, ensure the following options are selected:
+"Also ring" - select "no one else."
+"If unanswered" - choose "do nothing."
+Set "Ring for 60 seconds before redirecting."
+Step 3: Verify and Copy Teams DDI Number
+Under the ‘Calls’ section in MS Teams, identify and copy the Teams DDI Number.
+Ensure the number is copied accurately for input into Cisco Jabber.
+Step 4: Configure Cisco Jabber
+In Cisco Jabber, select the appropriate icon for adding a new number.
+Choose ‘New Number’ and paste the copied Teams DDI Number.
+Edit the number according to provided format instructions, ensuring it's saved correctly.
+The phone icon should display in green once the number is configured accurately.
+Step 5: Troubleshoot Cisco Jabber if Needed
+If the icon does not display in green, try signing out, resetting Jabber, and restarting it.
+Ensure login details are correctly input upon restart.
+Step 6: Adjust Additional Cisco Jabber Settings
+Navigate to the ‘Settings’ in Jabber.
+Under ‘Calls’, select ‘Never’ in the relevant dropdowns.
+Apply and save the settings.
+Step 7: Restart the Machine
+Ensure a complete restart of the machine.
+GVW users should log out of GVW and restart their physical machine.
+
+Conclusion
+This enhanced guide provides a meticulous step-by-step approach to configuring MS Teams and Cisco Jabber for optimal Teams Calling. Adherence to these steps, ensuring particular attention to setting configurations, promotes a smooth, efficient calling experience via MS Teams and Cisco Jabber. Tailoring settings according to user type (GVW User/Fixed Laptop User) ensures system compatibility and performance optimization.
