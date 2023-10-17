@@ -1,7 +1,7 @@
 import streamlit as st
-import utils
-import prepare_kb
-import documentation
+import utils as utils
+import prepare_kb as prepare_kb
+import documentation as documentation
 
 
 # Load Vector DB and initialize chat model and QA chain
@@ -61,7 +61,6 @@ if st.button("Send"):
     st.session_state.selected_query = None
 
 st.sidebar.title("Only use this if KB has been updated!")
-
 
 # Reload Database Button
 if st.sidebar.button("Reload Knowledge Base"):

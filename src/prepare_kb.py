@@ -12,7 +12,7 @@ def load_and_process_kb():
     and save them to disk.
     """
     # Load and process the text files
-    loader = DirectoryLoader('./kb_articles/', glob="./*.txt", loader_cls=TextLoader)
+    loader = DirectoryLoader('kb_articles/', glob="./*.txt", loader_cls=TextLoader)
     documents = loader.load()
     
     # Splitting the text into chunks
