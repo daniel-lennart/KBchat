@@ -61,24 +61,10 @@ if st.button("Send"):
     st.session_state.selected_query = None
 
 st.sidebar.title("Only use this if KB has been updated!")
-reload_button = st.sidebar.markdown(
-    """
-    <style>
-        .btn-custom {
-            background-color: red;
-            color: white;
-            padding: 0.75rem 1.25rem;
-            border: none;
-            border-radius: 0.25rem;
-            cursor: pointer;
-        }
-    </style>
-    <button class="btn-custom" id="reload-btn">Reload Knowledge Base</button>
-    """,
-    unsafe_allow_html=True
-)
 
-if "reload-btn" in st.session_state:
+
+# Reload Database Button
+if st.sidebar.button("Reload Knowledge Base"):
     st.sidebar.success("Reloading the Knowledge Base...")
-    prepare_kb.load_and_process_kb()
+    prepare_kb.load_and_process_kb()  # Function from prepare_kb.py that processes and saves the KB to a vector DB.
     st.sidebar.success("Knowledge Base Reloaded Successfully!")
