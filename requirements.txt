@@ -1,5 +1,10 @@
 langchain
 openai
 streamlit
-chromadb
 tiktoken
+pinecone-client
+python-decouple
+transformers
+sentence-transformers
+qdrant-client
+pytest

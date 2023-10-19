@@ -1,7 +1,7 @@
 import streamlit as st
-import utils as utils
-import prepare_kb as prepare_kb
-import documentation as documentation
+import src.chat.utils as utils
+import src.data_processing.prepare_kb as prepare_kb
+import src.chat.documentation as documentation
 
 
 # Load Vector DB and initialize chat model and QA chain
